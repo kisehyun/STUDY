@@ -10,9 +10,6 @@
 #### pytorch
 - PYTORCH 코드
 
-#### Recommendation_System
-- 추천시스템 코드
-
 #### TF-CORE
 - 텐서플로우 기초 코드
 
