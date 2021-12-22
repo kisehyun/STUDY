@@ -3,6 +3,10 @@
 #### 장소 : 서경대 북악관
 #### 결과 : 합격
 
+<img width="1131" alt="스크린샷 2021-12-22 21 30 51" src="https://user-images.githubusercontent.com/49870977/147093144-b5f857c6-f044-42a1-9149-121e69e9541c.png">
+
+
+
 ### 스터디 운영 방식 - 강의 및 풀이 진행
 
 - 총 12명 / Google Meet
