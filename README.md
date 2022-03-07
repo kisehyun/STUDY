@@ -7,6 +7,9 @@
 ### ADP
 - ADP(데이터 분석 전문가) 실기 코드
 
+### InterpretML
+- XAI 공부 코드
+
 ### Pyspark
 - Pyspark 연습 코드
 
